@@ -1,4 +1,6 @@
-# 🧕 Shemagh Compliance Detection System
+# <img src="assets/best.gif" width="50"> Shemagh Compliance Detection System
+
+
 
 ## 📌 Overview
 
